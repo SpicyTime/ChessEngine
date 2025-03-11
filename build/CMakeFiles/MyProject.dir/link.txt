@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/MyProject.dir/src/Board.cpp.o CMakeFiles/MyProject.dir/src/DataStructures.cpp.o CMakeFiles/MyProject.dir/src/Piece.cpp.o CMakeFiles/MyProject.dir/src/main.cpp.o  -o MyProject  -ljsoncpp 

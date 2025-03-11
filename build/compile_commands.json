@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/workspaces/ChessEngine/build",
+  "command": "/usr/bin/g++   -I/usr/include/jsoncpp -I/workspaces/ChessEngine/include  -g   -std=gnu++2a -o CMakeFiles/MyProject.dir/src/Board.cpp.o -c /workspaces/ChessEngine/src/Board.cpp",
+  "file": "/workspaces/ChessEngine/src/Board.cpp"
+},
+{
+  "directory": "/workspaces/ChessEngine/build",
+  "command": "/usr/bin/g++   -I/usr/include/jsoncpp -I/workspaces/ChessEngine/include  -g   -std=gnu++2a -o CMakeFiles/MyProject.dir/src/DataStructures.cpp.o -c /workspaces/ChessEngine/src/DataStructures.cpp",
+  "file": "/workspaces/ChessEngine/src/DataStructures.cpp"
+},
+{
+  "directory": "/workspaces/ChessEngine/build",
+  "command": "/usr/bin/g++   -I/usr/include/jsoncpp -I/workspaces/ChessEngine/include  -g   -std=gnu++2a -o CMakeFiles/MyProject.dir/src/Piece.cpp.o -c /workspaces/ChessEngine/src/Piece.cpp",
+  "file": "/workspaces/ChessEngine/src/Piece.cpp"
+},
+{
+  "directory": "/workspaces/ChessEngine/build",
+  "command": "/usr/bin/g++   -I/usr/include/jsoncpp -I/workspaces/ChessEngine/include  -g   -std=gnu++2a -o CMakeFiles/MyProject.dir/src/main.cpp.o -c /workspaces/ChessEngine/src/main.cpp",
+  "file": "/workspaces/ChessEngine/src/main.cpp"
+}
+]
