@@ -4,5 +4,5 @@
 
 Board board;
 int main(){
-    std::cout << "Hello World" << '\n';
+    board.init_board_pieces();
 }
