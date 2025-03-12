@@ -130,3 +130,11 @@ ostream
 Board.hpp
 /workspaces/ChessEngine/src/Board.hpp
 
+/workspaces/ChessEngine/src/main.cpp
+Board.hpp
+/workspaces/ChessEngine/src/Board.hpp
+Piece.hpp
+/workspaces/ChessEngine/src/Piece.hpp
+DataStructures.hpp
+/workspaces/ChessEngine/src/DataStructures.hpp
+

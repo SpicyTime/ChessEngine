@@ -4,5 +4,5 @@
 
 Board board;
 int main(){
-    board.init_board_pieces();
+    board.initBoardPieces();
 }
